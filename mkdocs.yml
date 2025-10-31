@@ -1,0 +1,10 @@
+site_name: Patricio Pagliari — Pipeline Developer
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Projects: projects.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
